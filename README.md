@@ -37,7 +37,7 @@ Buy signals are generated when the 50-day MA crosses above the 200-day MA, and s
 
 ### 1. Price and Moving Averages with Buy/Sell Signals
 
-![Price and Moving Averages with Buy/Sell Signals](./images/ma_crossover_strategy.png)
+![Price and Moving Averages with Buy/Sell Signals](ma_crossover_strategy.png)
 
 This plot shows AAPL's daily closing prices along with the 50-day and 200-day moving averages. Green triangles indicate buy signals and red inverted triangles indicate sell signals.
 
@@ -45,7 +45,7 @@ This plot shows AAPL's daily closing prices along with the 50-day and 200-day mo
 
 ### 2. Portfolio Performance
 
-![Portfolio Performance](./images/portfolio_performance.png)
+![Portfolio Performance](portfolio_performance.png)
 
 This plot compares the portfolio value using the MA Crossover strategy (blue line) against a Buy & Hold strategy (orange dashed line). The Buy & Hold strategy outperformed the MA Crossover strategy in this backtest.
 
